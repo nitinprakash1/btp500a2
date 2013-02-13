@@ -1,0 +1,17 @@
+Enter the goal compound in the format CxHxNxOx : 
+CO2
+Goal not formed. The Evolution has stopped because Soup is empty
+Below is the path taken. From History
+Key: 1. value: C2H3
+Key: 2. value: CH3O
+Key: 3. value: CN
+Key: 4. value: CH
+Key: 5. value: N
+Key: 8. value: C2H3O
+Key: 9. value: CH3O2
+Key: 10. value: CNO
+Key: 11. value: CHO
+Key: 12. value: O2
+Key: 13. value: NO
+Key: 14. value: HO
+Key: 15. value: H

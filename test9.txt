@@ -1,0 +1,26 @@
+Enter the goal compound in the format CxHxNxOx : 
+C6H9N3O2
+Goal has been formed. Evolution complete!
+Below is the path taken. From History
+Key: 6. value: C7H6
+Key: 8. value: C7H6O
+Key: 9. value: C6H6O2
+Key: 11. value: C7H6NO
+Key: 12. value: C6H6NO2
+Key: 14. value: C7H9N2O
+Key: 15. value: C6H9N2O2
+Key: 17. value: C7H6N3O
+Key: 18. value: C6H6N3O2
+Key: 19. value: C6H6N4O
+Key: 21. value: C7H7N3O
+Key: 22. value: C6H7N3O2
+Key: 23. value: C6H7N4O
+Key: 24. value: C6H8N3O
+Key: 26. value: C7H7N2O
+Key: 27. value: C6H7N2O2
+Key: 29. value: C7H10N3O
+Key: 30. value: C6H10N3O2
+Key: 34. value: C7H8N2O
+Key: 35. value: C6H8N2O2
+Key: 41. value: C7H9N3O
+Key: 43. value: C6H9N3O2

@@ -1,0 +1,12 @@
+Enter the goal compound in the format CxHxNxOx : 
+Goal has been formed. Evolution complete!
+Below is the path taken. From History
+Key: 0. Value: C
+Key: 1. Value: N
+Key: 3. Value: CO
+Key: 4. Value: O2
+Key: 5. Value: NO
+Key: 7. Value: CHO
+Key: 8. Value: HO2
+Key: 9. Value: HNO
+Key: 11. Value: H2O
